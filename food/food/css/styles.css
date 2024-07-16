@@ -1,0 +1,91 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background: #232f3e;
+    background: linear-gradient(to bottom, #232f3e, #19232d);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 5px solid #FF9900;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Main content styles */
+main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.farmer-profile, .product-item {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.farmer-profile img, .product-item img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.farmer-profile h3, .product-item h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.farmer-profile p, .product-item p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Hover effect for product items */
+.product-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Footer styles */
+footer {
+    background-color: #232f3e;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 5px solid #FF9900;
+}

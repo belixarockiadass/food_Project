@@ -1,0 +1,160 @@
+@charset "ISO-8859-1";
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: white;
+}
+/* Common Styles */
+.filler {
+    height: 50px;
+}
+
+.filler2 {
+    height: 20px;
+}
+.filler3 {
+    height: 10px;
+}
+
+.seller-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+}
+.seller-avatar {
+    margin-right: 20px;
+}
+
+.seller-avatar img {
+    border-radius: 50%;
+    border: 4px solid #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.seller-details {
+    text-align: left;
+}
+
+.user-details p {
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #333;
+}
+
+.logout-btn a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: #ff4d4d;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.logout-btn a:hover {
+    background-color: #e60000;
+}
+
+/* Header Styles */
+.header {
+    background-color: rgb(222, 159, 223);
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.navbar a {
+    color: #333;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 0 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.navbar a:hover {
+    background-color: #555;
+    color: #fff;
+}
+
+.navbar .home-btn,
+.navbar .buy-btn,
+.navbar .orders-btn,
+.navbar .info-btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.navbar .home-btn,
+.navbar .buy-btn,
+.navbar .orders-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.navbar .info-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Active Styles */
+.active {
+    margin-top: 0px;
+    padding:0px;
+    background-image: url("../images/indexfarm.png");
+    background-size: cover;
+}
+
+/* Top Bar Styles */
+.topbar1 {
+    width: 100%; /* Adjusted width */
+    height: 4px;
+    background-color: rgb(128, 255, 0);
+}
+
+.topbar2 {
+    width: 100%; /* Adjusted width */
+    height: 30px;
+    background-color: #2a2b2c;
+    color: white;
+    padding: 10px 0;
+}
+
+/* Container Styles */
+.container2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Card Styles */
+.card {
+    background-color: rgb(83, 158, 215);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Avatar {
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+/* Other Styles */
+h2 {
+    color: rgb(0, 128, 64);
+    text-align: center;
+}

@@ -1,0 +1,108 @@
+C:\Users\jdnet\source\repos\food\food\bin\food.dll.config
+C:\Users\jdnet\source\repos\food\food\bin\food.dll
+C:\Users\jdnet\source\repos\food\food\bin\food.pdb
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\csc.exe
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\csc.exe.config
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\csc.rsp
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\csi.exe
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\csi.rsp
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\System.AppContext.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\vbc.exe
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\vbc.exe.config
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\vbc.rsp
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\VBCSCompiler.exe
+C:\Users\jdnet\source\repos\food\food\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jdnet\source\repos\food\food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jdnet\source\repos\food\food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jdnet\source\repos\food\food\obj\Debug\food.csproj.AssemblyReference.cache
+C:\Users\jdnet\source\repos\food\food\obj\Debug\food.csproj.CoreCompileInputs.cache
+C:\Users\jdnet\source\repos\food\food\obj\Debug\food.csproj.CopyComplete
+C:\Users\jdnet\source\repos\food\food\obj\Debug\food.dll
+C:\Users\jdnet\source\repos\food\food\obj\Debug\food.pdb
+C:\Users\jdnet\Desktop\food\food\bin\food.dll.config
+C:\Users\jdnet\Desktop\food\food\bin\food.dll
+C:\Users\jdnet\Desktop\food\food\bin\food.pdb
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\csc.exe
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\csc.exe.config
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\csc.rsp
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\csi.exe
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\csi.rsp
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\System.AppContext.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\vbc.exe
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\vbc.exe.config
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\vbc.rsp
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\VBCSCompiler.exe
+C:\Users\jdnet\Desktop\food\food\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jdnet\Desktop\food\food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jdnet\Desktop\food\food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jdnet\Desktop\food\food\obj\Debug\food.csproj.AssemblyReference.cache
+C:\Users\jdnet\Desktop\food\food\obj\Debug\food.csproj.CoreCompileInputs.cache
+C:\Users\jdnet\Desktop\food\food\obj\Debug\food.csproj.CopyComplete
+C:\Users\jdnet\Desktop\food\food\obj\Debug\food.dll
+C:\Users\jdnet\Desktop\food\food\obj\Debug\food.pdb
+C:\FDMA FINAL PROJECT\food\food\food\bin\food.dll.config
+C:\FDMA FINAL PROJECT\food\food\food\bin\food.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\food.pdb
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\csc.exe
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\csc.exe.config
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\csc.rsp
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\csi.exe
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\csi.rsp
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\System.AppContext.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\System.Collections.Immutable.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\System.IO.FileSystem.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\System.Reflection.Metadata.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\vbc.exe
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\vbc.exe.config
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\vbc.rsp
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\VBCSCompiler.exe
+C:\FDMA FINAL PROJECT\food\food\food\bin\roslyn\VBCSCompiler.exe.config
+C:\FDMA FINAL PROJECT\food\food\food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FDMA FINAL PROJECT\food\food\food\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FDMA FINAL PROJECT\food\food\food\obj\Debug\food.csproj.AssemblyReference.cache
+C:\FDMA FINAL PROJECT\food\food\food\obj\Debug\food.csproj.CoreCompileInputs.cache
+C:\FDMA FINAL PROJECT\food\food\food\obj\Debug\food.csproj.CopyComplete
+C:\FDMA FINAL PROJECT\food\food\food\obj\Debug\food.dll
+C:\FDMA FINAL PROJECT\food\food\food\obj\Debug\food.pdb

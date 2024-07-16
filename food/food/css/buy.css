@@ -1,0 +1,63 @@
+/* Active Section Styles */
+.active {
+    background-color: #f9f9f9; /* Lighter background */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Card Styles */
+.card {
+    border: 1px solid #eee; /* Softer border */
+    border-radius: 10px; /* Slightly rounded edges */
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: transform 0.3s ease-in-out; /* Smooth transition */
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Lift card on hover */
+}
+
+.card img {
+    width: 80px; /* Adjust size as needed */
+    height: 80px; /* Adjust size as needed */
+    margin-bottom: 15px; /* Slightly increased margin */
+    border-radius: 50%; /* Circular images */
+    object-fit: cover; /* Maintain aspect ratio */
+}
+
+.card h1 {
+    font-size: 20px; /* Slightly larger heading */
+    margin-bottom: 10px;
+}
+
+.card p {
+    margin-bottom: 12px; /* Increased margin */
+}
+
+/* Button Styles */
+.card button {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff9f00;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition for transform */
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card button:hover {
+    background-color: #ffab33;
+    transform: translateY(-3px); /* Lift button on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Adjusted box shadow */
+}
